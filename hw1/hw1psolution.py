@@ -1,4 +1,6 @@
 
+## Python 2
+
 # coding: utf-8
 
 # # Connected Components
@@ -8,6 +10,7 @@
 # You will use the [NetworkX](https://networkx.github.io/) Python package to represent and manipulate graphs. You should first familiarize yourself with its functionality by going through the brief [tutorial](http://networkx.github.io/documentation/networkx-1.9.1/tutorial/index.html). For this homework, you may only use the basic undirected graph methods listed [here](http://networkx.github.io/documentation/networkx-1.9.1/reference/classes.graph.html).
 # 
 # As a use case, we will work with a dataset recording the interactions between characters in Homer's *Iliad*.
+
 
 # In[16]:
 
